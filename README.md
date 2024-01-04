@@ -1,4 +1,4 @@
-# git-rebase-example
+# An example repo for learning about Git Rebase
 
 To install dependencies:
 
